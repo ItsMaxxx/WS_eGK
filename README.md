@@ -1,3 +1,2 @@
 # WS_eGK
-Fürs Arduino
-Shit happens here
+Fürs Arduino, Shit happens here
